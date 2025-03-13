@@ -1,4 +1,4 @@
-# [Midterm Lab Task 2]
+# [Midterm Lab Task 2 - Data Cleaning and Preparation using POWER QUERY](https://github.com/user-attachments/files/19228668/MANARANG1.xlsx)
 This portfolio demonstrates the process of data cleaning and preparation using Power Query. The dataset consists of multiple related tables, where cleaning techniques are applied to improve data quality and consistency before analysis.
 
 ## Step-by-Step Process
